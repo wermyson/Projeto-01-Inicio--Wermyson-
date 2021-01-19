@@ -1,4 +1,4 @@
-Fiz um zumbi que pode ser empurrado da escada 
+Fiz um zumbi que pode ser empurrado da escada\n
 Fiz sozinho
 Usei o código do calango como base, fui fazer uma ação por vez
 Entendi como o código funciona, só tenho dificuldade de identificar os erros dos meus códigos 
