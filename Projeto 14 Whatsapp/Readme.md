@@ -1,0 +1,5 @@
+# Readme #14 Whatsapp
+- **1-** Fiz logo depois do Twitter por que valia 40 pontos, então queria subir logo minha nota mesmo que fosse mais complexo
+- **2-** Fiz sozinho
+- **3-** Não foi muito diferente das lógicas usadas no twitter então foi bem mais rápido. Não tive muitos problemas, só que fiz uma adição no meu código que é: pra adicionar alguém no grupo você tem que ser ADMIN, que nem no whatsapp mesmo. Achei umas soluções que não sei que eram as que você imaginava pro problema, mas acho válido avisar, como o viewGrupo que vai mostrar as mensagens enviadas e recebidas e p allmensagens. Outra coisa é que não entendi por que nas mensagens enviadas não aparecem pro user, acho que isso só deixa a conversa mais "confusa", mas como você pediu pra ser assim, fiz assim.
+- **4-** Foi umas 4 horas pra fazer esse, como eu disse escrevo que nem uma lesma
