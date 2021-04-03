@@ -1,5 +1,0 @@
-# Readme #09 Twitter
-- **1-** Twitter quase melhor que o verdadeiros, aqui não tem cancelamento
-- **2-** Dessa vez fiz sozinho, igual aos próximos e sempre uso o VSCode
-- **3-** Agora os códigos estão construidos mais certinhos, pelo menos eu acho que sim. Esse código foi bem desafiador eu diria, passei muito tempo tentando achar as soluções de lógica pros problemas, acredito que tenha sido o primeiro código que de fato gostei de fazer, o que me motivou a fazer os seguintes. As dificuldades foram só não abrir o código direto da pasta de origem e como eu iria limpar os TreeMap e listas que estava usando, o que você me disse mais tarde que era só uar o .clear() que resolveu os problemas
-- **4-** Pra desenvolver a lógica foi o que demorou, além que sou uma lesma digitando, então levei umas 6 horas ou mais pra fazer esse aqui
